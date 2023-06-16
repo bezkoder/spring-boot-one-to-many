@@ -1,6 +1,6 @@
 package com.bezkoder.spring.hibernate.onetomany.model;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 
 import org.hibernate.annotations.OnDelete;
 import org.hibernate.annotations.OnDeleteAction;
